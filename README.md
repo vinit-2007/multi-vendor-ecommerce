@@ -1,5 +1,7 @@
 🛒 Multi-Vendor E-Commerce Platform
 
+LIVE LINK: https://vinit-multi-vendor-ecommerce.netlify.app/
+
 A full-stack Multi-Vendor E-Commerce Platform built using React, Vite, Tailwind CSS, and Node.js. The platform provides separate dashboards and workflows for Customers, Vendors, and Administrators, enabling seamless online shopping and efficient store management.
 
 🚀 Features
